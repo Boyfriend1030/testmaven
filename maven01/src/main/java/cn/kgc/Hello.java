@@ -1,0 +1,12 @@
+package cn.kgc;
+
+/**
+ * @ClassName Hello
+ * @Description TODO
+ * @Author Deon
+ */
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
+}
